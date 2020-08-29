@@ -1,0 +1,48 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: inter;
+}
+
+body{
+    background: #ecf0f1;
+}
+
+
+#container{
+    width: 40%;
+    height: 150px;
+    margin: 15% auto;
+    text-align: center;
+}
+
+h1{
+    padding: 15px;
+    color: #487eb0;
+    font-size: 70px;
+}
+
+p{
+    padding: 25px 10px;
+    font-size: 70px;
+}
+
+button{
+    margin: 10px;
+    padding: 7px 20px;
+    font-size: 15px;
+    text-transform: uppercase;
+    border: 2px solid black;
+    border-radius: 5px;
+    color: black;
+    background: white;
+    box-shadow: 1px 1px 10px black;
+}
+
+
+
+
+
+
